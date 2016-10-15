@@ -5,6 +5,7 @@ The listing of bots using the discord.htc library
 | List Number  | Bot Name | Bot Prefix |
 | ------------- | ------------- | ------------- |
 | 1.  | discord.htc  | dhtc   |
+| 2.  | DHTC Documents  | !   |
 
 
 ```xl
