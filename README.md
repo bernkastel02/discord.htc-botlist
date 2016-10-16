@@ -6,6 +6,7 @@ The listing of bots using the discord.htc library
 | ------------- | ------------- | ------------- |
 | 1.  | discord.htc  | dhtc   |
 | 2.  | DHTC Documents  | !   |
+| 3.  | Garnet  | g~   |
 
 
 ```xl
